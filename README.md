@@ -6,8 +6,8 @@
 
 📫 How to reach me:
 
-Twitter:  @shyyawn
-Email:    me@shyyawn.com
+- Twitter:  @shyyawn
+- Email:    me@shyyawn.com
 
 <!--
 **shyyawn/shyyawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
