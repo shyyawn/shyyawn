@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+🔭 I’m currently working with Go, Python and PHP and 🌱 learning stuff related to those.
+💬 Ask me about anything related to web development, architecture, scalability or data, I'll help, if possible.
+
+
+📫 How to reach me:
+
+Twitter:  @shyyawn
+Email:    me@shyyawn.com
+
 <!--
 **shyyawn/shyyawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
