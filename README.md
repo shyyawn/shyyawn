@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-🔭 I’m currently working with Go, Python and PHP and 🌱 learning stuff related to those.
-💬 Ask me about anything related to web development, architecture, scalability or data, I'll help, if possible.
+I’m currently 🔭 working with Go, Python, PHP, Kubernetes, GCP, Kakfa, MYSQL, Cassandra, Redis, Secor and so on. 
+Ask me 💬 about anything related to web development, architecture, scalability or data, I'll help, if possible.
 
 
-📫 How to reach me:
+How to reach me 📫
 
 - Twitter:  @shyyawn
 - Email:    me@shyyawn.com
