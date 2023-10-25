@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-I’m currently 🔭 working with Go, Python, PHP, Kubernetes, GCP, Kakfa, MYSQL, Cassandra, Redis, Mongo and so on. 
-Feel free to reach out 💬.
+Just want to write a bit of code. Go, Python and PHP. Dabbling into Rust nowadays.
 
-
-How to reach me 📫
 
 - Twitter:  @shyyawn
 - Email:    me@shyyawn.com
