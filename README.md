@@ -3,6 +3,8 @@
 Just want to write a bit of code. Go, Python and PHP. Dabbling into Rust nowadays.
 
 
+How to reach me 📫
+
 - Twitter:  @shyyawn
 - Email:    me@shyyawn.com
 - Website:  https://shyyawn.com
